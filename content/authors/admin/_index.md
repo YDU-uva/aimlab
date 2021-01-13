@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cees G.M Snoek
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Amsterdam
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,8 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computater Vison
+
 
 education:
   courses:
