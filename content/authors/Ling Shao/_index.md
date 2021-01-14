@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cees G.M Snoek
+title: Ling Shao
 
 # Is this the primary user of the site?
 superuser: true
