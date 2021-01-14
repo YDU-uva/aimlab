@@ -3,7 +3,7 @@
 title: Tom van Sonsbeek
 
 # Is this the primary user of the site?
-superuser: true
+superuser: False
 
 # Role/position
 role: PhD Students
