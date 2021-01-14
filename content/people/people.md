@@ -18,7 +18,7 @@ content:
   user_groups:
   - 
   - Directors
-  - Research Staff
+  - Assistant Professor
   - PhD Students
   - Visitors
   - Alumni
