@@ -1,6 +1,6 @@
 ---
 title: one paper accepted at ICML 2020.
-date: 2020-12-02
+date: 2020-05-09
 ---
 
 Congratulations on Xiantong Zhen's paper "Learning to Learn Kernels with Variational Random Features" being accepted by ICML 2020.
