@@ -1,5 +1,5 @@
 ---
-title: one paper accepted at ICML 2020.
+title: One paper accepted at ICML 2020.
 date: 2020-05-09
 ---
 
