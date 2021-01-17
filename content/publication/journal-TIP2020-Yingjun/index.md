@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Conditional Variational Image Deraining"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Yingjun Du 
+- Jun Xu 
+- Xiantong Zhen
+- MingMing Cheng
+-  Ling Shao
+date: "2020-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "IEEE Transactions on Image Processing"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Image deraining is an important yet challenging image processing task. Though deterministic image deraining methods are developed with encouraging performance, they are infeasible to learn flexible representations for probabilistic inference and diverse predictions. Besides, rain intensity varies both in spatial locations and across color channels, making this task more difficult. In this paper, we propose a Conditional Variational Image Deraining (CVID) network for better deraining performance, leveraging the exclusive generative ability of Conditional Variational Auto-Encoder (CVAE) on providing diverse predictions for the rainy image. To perform spatially adaptive deraining, we propose a spatial density estimation (SDE) module to estimate a rain density map for each image. Since rain density varies across different color channels, we also propose a channel-wise (CW) deraining scheme. Experiments on synthesized and real-world datasets show that the proposed CVID network achieves much better performance than previous deterministic methods on image deraining. Extensive ablation studies validate the effectiveness of the proposed SDE module and CW scheme in our CVID network.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we propose a Conditional Variational Image Deraining (CVID) network for better deraining performance, leveraging the exclusive generative ability of Conditional Variational Auto-Encoder (CVAE) on providing diverse predictions for the rainy image.
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2004.11373.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
