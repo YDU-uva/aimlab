@@ -1,5 +1,5 @@
 ---
-title: one paper accepted at ICLR 2021.
+title: One paper accepted at ICLR 2021.
 date: 2020-12-02
 ---
 
