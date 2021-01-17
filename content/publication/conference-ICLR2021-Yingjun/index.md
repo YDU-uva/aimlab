@@ -1,13 +1,11 @@
 ---
-title: "Learning to Learn with Variational Information Generalization"
+title: "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains"
 authors:
 - Yingjun Du
-- Jun Xu 
-- Huan Xiong
-- Qiang Qiu 
 - Xiantong Zhen 
-- Cees G.M. Snoek
 - Ling Shao
+- Cees G.M. Snoek
+
 - 
 date: "2020-09-01T00:00:00Z"
 doi: ""
