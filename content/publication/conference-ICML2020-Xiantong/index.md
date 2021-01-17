@@ -1,7 +1,7 @@
 ---
 title: "Learning to Learn Kernels with Variational Random Features"
 authors:
--Xiantong Zhen
+- Xiantong Zhen
 - Haoliang Sun 
 - Yingjun Du 
 - Jun Xu 
