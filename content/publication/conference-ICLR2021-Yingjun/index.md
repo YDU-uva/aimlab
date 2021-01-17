@@ -21,10 +21,10 @@ publication_types: ["1"]
 publication: In *ICLR 2021*
 publication_short: In *ICLR*
 
-Batch normalization plays a crucial role when training deep neural networks. However, batch statistics become unstable with small batch sizes and are unreliable in the presence of distribution shifts. We propose MetaNorm, a simple yet effective meta-learning normalization. It tackles the aforementioned issues in a unified way by leveraging the meta-learning setting and learns to infer adaptive statistics for batch normalization. MetaNorm is generic, flexible and model-agnostic, making it a simple plug-and-play module that is seamlessly embedded into existing meta-learning approaches. It can be efficiently implemented by lightweight hypernetworks with low computational cost. We verify its effectiveness by extensive evaluation on representative tasks suffering from the small batch and domain shift problems: few-shot learning and domain generalization. We further introduce an even more challenging setting: few-shot domain generalization. Results demonstrate that MetaNorm consistently achieves better, or at least competitive, accuracy compared to existing batch normalization methods.  
+abstract: Batch normalization plays a crucial role when training deep neural networks. However, batch statistics become unstable with small batch sizes and are unreliable in the presence of distribution shifts. We propose MetaNorm, a simple yet effective meta-learning normalization. It tackles the aforementioned issues in a unified way by leveraging the meta-learning setting and learns to infer adaptive statistics for batch normalization. MetaNorm is generic, flexible and model-agnostic, making it a simple plug-and-play module that is seamlessly embedded into existing meta-learning approaches. It can be efficiently implemented by lightweight hypernetworks with low computational cost. We verify its effectiveness by extensive evaluation on representative tasks suffering from the small batch and domain shift problems: few-shot learning and domain generalization. We further introduce an even more challenging setting: few-shot domain generalization. Results demonstrate that MetaNorm consistently achieves better, or at least competitive, accuracy compared to existing batch normalization methods.  
 
 # Summary. An optional shortened abstract.
-summary: We propose MetaNorm, a simple yet effective meta-learning normalization approach that learns adaptive statistics for few-shot classification and domain generalization.
+summary: Meta Learning, Domain Generalization, Variational Inference, Information Bottleneck
 
 tags:
 - Source Themes
@@ -32,8 +32,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: https://openreview.net/forum?id=9z_dNsC4B5t
-url_pdf: https://openreview.net/pdf?id=9z_dNsC4B5t
+  url: https://arxiv.org/abs/2007.07645
+url_pdf: https://arxiv.org/pdf/2007.07645.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
