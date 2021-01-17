@@ -6,7 +6,7 @@ authors:
 - Huan Xiong
 - Qiang Qiu 
 - Xiantong Zhen 
-- Cees G. M. Snoek 
+- Cees G.M Snoek
 - Ling Shao
 - 
 date: "2020-09-01T00:00:00Z"
