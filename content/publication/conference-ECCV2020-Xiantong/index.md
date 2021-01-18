@@ -37,8 +37,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: https://arxiv.org/abs/2007.07645
-url_pdf: https://arxiv.org/pdf/2007.07645.pdf
+  url: http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580715.pdf
+url_pdf: http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580715.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
